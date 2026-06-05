@@ -20,7 +20,7 @@
 
 ## Датасет
 
-Источник: [Kaggle: Coffee Vending Machine Transactions](<KAGGLE_DATASET_URL>)
+Источник: [Kaggle: Coffee Vending Machine Transactions](https://www.kaggle.com/datasets/ihelon/coffee-sales)
 
 Два CSV-файла за разные периоды объединяются при загрузке:
 
