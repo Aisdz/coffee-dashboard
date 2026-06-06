@@ -17,6 +17,10 @@ build/
 .venv/
 venv/
 
+# Prophet / Stan
+prophet_cache/
+cmdstan*/
+
 # OS
 .DS_Store
 Thumbs.db
