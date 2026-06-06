@@ -1,4 +1,13 @@
+# ── Dashboard ──
 pandas>=2.0
 numpy>=1.24
 matplotlib>=3.7
 seaborn>=0.12
+
+# ── Time Series ──
+statsmodels>=0.14
+prophet>=1.1
+scipy>=1.11        # нужна совместимая версия для statsmodels
+
+# ── Optional (автоподбор SARIMA) ──
+# pmdarima>=2.0
