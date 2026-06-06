@@ -100,7 +100,7 @@ coffee-dashboard/
 ├── dashboard/
 │   ├── coffee_dashboard.ipynb   ← этот ноутбук
 │   └── README.md                ← вы здесь
-├── time-series/                 ← в разработке
+├── time-series/                 ← [`time-series/`](../time-series)
 ├── data/
 │   └── .gitkeep                 
 ├── requirements.txt
